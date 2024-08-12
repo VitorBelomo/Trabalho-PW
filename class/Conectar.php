@@ -7,7 +7,7 @@ class Conectar extends PDO {//php data object
     private $query;
     private $host = "localhost";
     private $usuario = "root";
-    private $senha = "usbw";
+    private $senha = "";
     private $db = "3ds";
     private $pdo = "";
     

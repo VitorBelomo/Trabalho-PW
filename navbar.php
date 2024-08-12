@@ -12,6 +12,12 @@
                 <a class="nav-link" href="<?= $caminho ?>alunosModal">Alunos Modal</a>
             </li>
             <li class="nav-item">
+                <a class="nav-link" href="<?= $caminho ?>onibusModal">Onibus Modal</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="<?= $caminho ?>passageiroModal">Passageiro Modal</a>
+            </li>   
+            <li class="nav-item">
                 <a class="nav-link" href="<?= $caminho ?>alunosURL">Alunos URL</a>
             </li>
             <li class="nav-item">
@@ -26,6 +32,7 @@
             <li class="nav-item">
                 <a class="nav-link" href="<?= $caminho ?>graficoDengue">Gráfico Dengue</a>
             </li>
+
         </ul>
     </div>
 </nav>
